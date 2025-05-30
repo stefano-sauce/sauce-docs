@@ -1631,9 +1631,6 @@ curl -u "$SAUCE_USERNAME:$SAUCE_ACCESS_KEY" --location \
 
 Returns the number of teams a user belongs to and provides information about each team, including whether it is the default and its concurrency settings.
 
-:::note
-At this time, users may only belong to a maximum of one team.
-:::
 
 #### Parameters
 
