@@ -43,5 +43,5 @@ Below you will find links to our quickstart guides and demo repos, listed by fra
 
 Sauce Bindings provide you with a wrapper &#8212; or _binding_ &#8212; for our platform's most popular programming languages, allowing you to connect to Sauce Labs from your test framework to perform automated web and mobile app testing.
 
-- [Sauce Bindings website](https://opensource.saucelabs.com/sauce_bindings)
+- [Sauce Bindings website](https://opensource.saucelabs.com/projects/))
 - [Sauce Bindings GitHub repo](https://github.com/saucelabs/sauce_bindings)
